@@ -46,7 +46,7 @@
 
 | 方法 | 论文 | 官方代码 |
 | :---: | :--- | :---: |
-
+| **DDIF** | *Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2023.102158-blue)](https://doi.org/10.1016/j.inffus.2023.102158) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/294coder/Dif-PAN) |
 
 
 
