@@ -6,4 +6,5 @@
 
 ### SDPNet
 论文：《A spatially guided dual-path network for hyperspectral and multispectral image fusion》
-DOI：<10.1016/j.knosys.2026.116227>
+
+[DOI](https://doi.org/10.1016/j.knosys.2026.116227)
