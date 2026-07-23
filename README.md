@@ -20,6 +20,8 @@
 | **CaFormer** | *Cross-domain-aware deep unfolding transformer for hyperspectral image super-resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2025.112374-blue)](https://doi.org/10.1016/j.patcog.2025.112374) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Caoxuheng/HIFtool) |
 | **SSDAN** | *S2-Differential Feature Awareness Network for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2026.3671284-blue)](https://doi.org/10.1109/TGRS.2026.3671284) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/SSDAN) |
 | **ASSRNet** | *ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTNNLS.2026.3709066-blue)](https://doi.org/10.1109/TNNLS.2026.3709066) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/ASSRNet) |
+| **ShuffleMamba** | *Shuffle Mamba: State Space Models With Random Shuffle for Multi-Modal Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2026.3668923-blue)](https://doi.org/10.1109/TCSVT.2026.3668923) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/caoke-963/Shuffle-Mamba) |
+| **GGAT** | *High-frequency geometry enhanced graph attention network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2026.113592-blue)](https://doi.org/10.1016/j.patcog.2026.113592) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/mia681912/GGAT) |
 
 ## 2025
 
