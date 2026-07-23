@@ -37,7 +37,7 @@
 | **SMGU** | *Spatial–spectral unfolding network with mutual guidance for multispectral and hyperspectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2024.111277-blue)](https://doi.org/10.1016/j.patcog.2024.111277) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/yansql/SMGU-Net) |
 | **LRTN** | *Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11263--024--02203--7-blue)](https://doi.org/10.1007/s11263-024-02203-7) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging) |
 | **CYFormer** | *Cyclic Cross-Modality Interaction for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2024.3461829-blue)](https://doi.org/10.1109/TCSVT.2024.3461829) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Tomchenshi/CYformer) |
-
+| **SRINO** | *Spatial-Spectral Residuals Informed Diffusion Neural Operator for Pan-sharpening* <br> [📄 CVF Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Spatial-Spectral_Residuals_Informed_Diffusion_Neural_Operator_for_Pan-sharpening_CVPR_2026_paper.html) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Jianhan-Huang/SRINO) |
 
 
 
