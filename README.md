@@ -36,7 +36,7 @@
 | **SSDT** | *SSDT: Multiscale Spatial–Spectral Dilated Transformer for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3610215-blue)](https://doi.org/10.1109/TGRS.2025.3610215) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/FxyPd/SSDT) |
 | **SMGU** | *Spatial–spectral unfolding network with mutual guidance for multispectral and hyperspectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2024.111277-blue)](https://doi.org/10.1016/j.patcog.2024.111277) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/yansql/SMGU-Net) |
 | **LRTN** | *Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11263--024--02203--7-blue)](https://doi.org/10.1007/s11263-024-02203-7) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging) |
-
+| **CYFormer** | *Cyclic Cross-Modality Interaction for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2024.3461829-blue)](https://doi.org/10.1109/TCSVT.2024.3461829) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Tomchenshi/CYformer) |
 
 
 
