@@ -30,7 +30,7 @@
 | **OTIAS** | *OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v39i3.32275-blue)](https://doi.org/10.1609/aaai.v39i3.32275) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/shangqideng/OTIAS) |
 | **PSTUN** | *Perceptive spectral transformer unfolding network with multiscale mixed training for arbitrary-scale hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2025.103166-blue)](https://doi.org/10.1016/j.inffus.2025.103166) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/NIM-NMDC/PSTUN) |
 | **RAMSF** | *RAMSF: A Novel Generic Framework for Optical Remote Sensing Multimodal Spatial-Spectral Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3552937-blue)](https://doi.org/10.1109/TGRS.2025.3552937) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/JUSTM0VE0N/RAMSF) |
-
+| **MCANet** | *Replacing complex transformer with simple attention to achieve hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.engappai.2025.111959-blue)](https://doi.org/10.1016/j.engappai.2025.111959) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/xiaomudsg/MCANet) |
 
 
 
