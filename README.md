@@ -51,7 +51,7 @@
 | **MIMOSST** | *MIMO-SST: Multi-Input Multi-Output Spatial-Spectral Transformer for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2024.3361553-blue)](https://doi.org/10.1109/TGRS.2024.3361553) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Freelancefangjian/MIMO-SST) |
 | **DCT** | *Reciprocal transformer for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2023.102148-blue)](https://doi.org/10.1016/j.inffus.2023.102148) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/qingma2016/DCTransformer) |
 | **S2CycleDiff** | *S2CycleDiff: Spatial-Spectral-Bilateral Cycle-Diffusion Framework for Hyperspectral Image Super-resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v38i5.28262-blue)](https://doi.org/10.1609/aaai.v38i5.28262) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Jiahuiqu/S2CycleDiff) |
-| **SST** | *Spectral–Spatial Transformer for Hyperspectral Image Sharpening* <br> [📄 IEEE IEEE TGRS Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Lihui-Chen/Spectral-Spatial-Transformer-for-HSI-Sharpening) |
+| **SST** | *Spectral–Spatial Transformer for Hyperspectral Image Sharpening* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTNNLS.2023.3297319-blue)](https://doi.org/10.1109/TNNLS.2023.3297319) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Lihui-Chen/Spectral-Spatial-Transformer-for-HSI-Sharpening) |
 
 
 
