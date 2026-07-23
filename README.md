@@ -18,6 +18,7 @@
 | **Im2State** | *Im2State: Image-to-state Mamba for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2026.104385-blue)](https://doi.org/10.1016/j.inffus.2026.104385) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/danfenghong/Information_Fusion_Im2State) |
 | **Ada3D** | *Adaptive 3D Convolution for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3689418-blue)](https://doi.org/10.1109/TIP.2026.3689418) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/Ada3D) |
 | **CaFormer** | *Cross-domain-aware deep unfolding transformer for hyperspectral image super-resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2025.112374-blue)](https://doi.org/10.1016/j.patcog.2025.112374) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Caoxuheng/HIFtool) |
+| **SSDAN** | *S2-Differential Feature Awareness Network for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2026.3671284-blue)](https://doi.org/10.1109/TGRS.2026.3671284) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/SSDAN) |
 
 ## 2025
 | 方法 | 论文 | 官方代码 |
