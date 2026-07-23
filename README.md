@@ -24,5 +24,7 @@
 | **OTPNet** | *OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v39i9.33048-blue)](https://doi.org/10.1609/aaai.v39i9.33048) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/tsharry2201/OTPNet) |
 | **AELF** | *Adaptive Expert Learning for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3620897-blue)](https://doi.org/10.1109/TGRS.2025.3620897) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Hewq77/AELF) |
 | **AMSF** | *An Asymptotic Multiscale Symmetric Fusion Network for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3525840-blue)](https://doi.org/10.1109/TGRS.2025.3525840) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/cvmdsp/AMSF-Net) |
+| **ASMNet** | *Asymptotic Spectral Mapping for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2024.3507860-blue)](https://doi.org/10.1109/TCSVT.2024.3507860) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/1318133/ASMNet) |
+
 
 
