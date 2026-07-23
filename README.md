@@ -4,6 +4,7 @@
 
 ## 2026
 
-| 方法名 | 论文名称与 DOI | 官方代码 |
+| 方法 | 论文 | 官方代码 |
 | :---: | :--- | :---: |
 | **SDPNet** | *A spatially guided dual-path network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116227-blue)](https://doi.org/10.1016/j.knosys.2026.116227) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/LRuiRui517/SDP-Net)|
+| **EMRDiff** | *EMR-Diff: Edge-aware Multimodal Residual Diffusion Model for Hyperspectral  Image Super-resolution* <br>[📄 CVF Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_EMR-Diff_Edge-aware_Multimodal_Residual_Diffusion_Model_for_Hyperspectral_Image_Super-resolution_CVPR_2026_paper.html) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/luocz55/EMR-Diff)|
