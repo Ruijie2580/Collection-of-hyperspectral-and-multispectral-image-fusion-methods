@@ -19,8 +19,10 @@
 | **Ada3D** | *Adaptive 3D Convolution for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3689418-blue)](https://doi.org/10.1109/TIP.2026.3689418) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/Ada3D) |
 | **CaFormer** | *Cross-domain-aware deep unfolding transformer for hyperspectral image super-resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2025.112374-blue)](https://doi.org/10.1016/j.patcog.2025.112374) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Caoxuheng/HIFtool) |
 | **SSDAN** | *S2-Differential Feature Awareness Network for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2026.3671284-blue)](https://doi.org/10.1109/TGRS.2026.3671284) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/SSDAN) |
+| **ASSRNet** | *ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTNNLS.2026.3709066-blue)](https://doi.org/10.1109/TNNLS.2026.3709066) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/ASSRNet) |
 
 ## 2025
+
 | 方法 | 论文 | 官方代码 |
 | :---: | :--- | :---: |
 | **OTPNet** | *OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v39i9.33048-blue)](https://doi.org/10.1609/aaai.v39i9.33048) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/tsharry2201/OTPNet) |
@@ -39,8 +41,10 @@
 | **CYFormer** | *Cyclic Cross-Modality Interaction for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2024.3461829-blue)](https://doi.org/10.1109/TCSVT.2024.3461829) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Tomchenshi/CYformer) |
 | **SRINO** | *Spatial-Spectral Residuals Informed Diffusion Neural Operator for Pan-sharpening* | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Jianhan-Huang/SRINO) |
 
+## 2024
 
-
+| 方法 | 论文 | 官方代码 |
+| :---: | :--- | :---: |
 
 
 
