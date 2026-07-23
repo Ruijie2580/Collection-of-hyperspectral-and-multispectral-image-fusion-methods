@@ -18,4 +18,7 @@
 | **Im2State** | *Im2State: Image-to-state Mamba for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2026.104385-blue)](https://doi.org/10.1016/j.inffus.2026.104385) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/danfenghong/Information_Fusion_Im2State) |
 | **Ada3D** | *Adaptive 3D Convolution for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3689418-blue)](https://doi.org/10.1109/TIP.2026.3689418) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/Ada3D) |
 
-
+## 2025
+| 方法 | 论文 | 官方代码 |
+| :---: | :--- | :---: |
+| **OTPNet** | *OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v39i9.33048-blue)](https://doi.org/10.1609/aaai.v39i9.33048) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/tsharry2201/OTPNet) |
