@@ -16,6 +16,6 @@
 | **RAMoE** | *Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2026.3680287-blue)](https://doi.org/10.1109/TGRS.2026.3680287) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Xxn25/RAMoE) |
 | **RASD-FuNet** | *Rank-aware routing decomposition for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2026.104498-blue)](https://doi.org/10.1016/j.inffus.2026.104498) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion) |
 | **Im2State** | *Im2State: Image-to-state Mamba for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2026.104385-blue)](https://doi.org/10.1016/j.inffus.2026.104385) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/danfenghong/Information_Fusion_Im2State) |
-
+| **Ada3D** | *Adaptive 3D Convolution for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3689418-blue)](https://doi.org/10.1109/TIP.2026.3689418) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/Ada3D) |
 
 
