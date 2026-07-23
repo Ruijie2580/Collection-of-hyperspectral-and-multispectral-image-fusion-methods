@@ -4,7 +4,7 @@
 
 ## 2026
 
-| 方法 | 论文 | 官方代码 |
+| 方法 | 论文 | 代码 |
 | :---: | :--- | :---: |
 | **SDPNet** | *A spatially guided dual-path network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116227-blue)](https://doi.org/10.1016/j.knosys.2026.116227) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/LRuiRui517/SDP-Net)|
 | **EMRDiff** | *EMR-Diff: Edge-aware Multimodal Residual Diffusion Model for Hyperspectral  Image Super-resolution* | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/luocz55/EMR-Diff)|
@@ -23,7 +23,7 @@
 
 ## 2025
 
-| 方法 | 论文 | 官方代码 |
+| 方法 | 论文 | 代码 |
 | :---: | :--- | :---: |
 | **OTPNet** | *OTPNet: ODE-inspired Tuning-free Proximal Network for Remote Sensing Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1609%2Faaai.v39i9.33048-blue)](https://doi.org/10.1609/aaai.v39i9.33048) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/tsharry2201/OTPNet) |
 | **AELF** | *Adaptive Expert Learning for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3620897-blue)](https://doi.org/10.1109/TGRS.2025.3620897) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Hewq77/AELF) |
@@ -44,7 +44,7 @@
 
 ## 2024
 
-| 方法 | 论文 | 官方代码 |
+| 方法 | 论文 | 代码 |
 | :---: | :--- | :---: |
 | **DDIF** | *Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2023.102158-blue)](https://doi.org/10.1016/j.inffus.2023.102158) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/294coder/Dif-PAN) |
 | **MIMFormer** | *MIMFormer: Multiscale Inception Mixer Transformer for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FJSTARS.2024.3447648-blue)](https://doi.org/10.1109/JSTARS.2024.3447648) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/meiruni/MIMFormer) |
@@ -55,9 +55,9 @@
 
 ## 2023
 
-| 方法 | 论文 | 官方代码 |
+| 方法 | 论文 | 代码 |
 | :---: | :--- | :---: |
 | **PSRT** | *PSRT: Pyramid Shuffle-and-Reshuffle Transformer for Multispectral and Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2023.3244750-blue)](https://doi.org/10.1109/TGRS.2023.3244750) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/shangqideng/PSRT) |
-
+| **U2Net** | *U2Net: A General Framework with Spatial-Spectral-Integrated Double U-Net for Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3581783.3612084-blue)](https://doi.org/10.1145/3581783.3612084) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/U2Net) |
 
 
