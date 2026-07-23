@@ -34,7 +34,7 @@
 | **MCANet** | *Replacing complex transformer with simple attention to achieve hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.engappai.2025.111959-blue)](https://doi.org/10.1016/j.engappai.2025.111959) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/xiaomudsg/MCANet) |
 | **SINet** | *Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FJSTSP.2025.3596518-blue)](https://doi.org/10.1109/JSTSP.2025.3596518) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/1469102331/SINet) |
 | **SSDT** | *SSDT: Multiscale Spatial–Spectral Dilated Transformer for Hyperspectral and Multispectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3610215-blue)](https://doi.org/10.1109/TGRS.2025.3610215) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/FxyPd/SSDT) |
-
+| **SMGU** | *Spatial–spectral unfolding network with mutual guidance for multispectral and hyperspectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2024.111277-blue)](https://doi.org/10.1016/j.patcog.2024.111277) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/yansql/SMGU-Net) |
 
 
 
