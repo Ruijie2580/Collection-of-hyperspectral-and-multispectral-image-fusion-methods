@@ -43,7 +43,6 @@
 | **SRINO** | *Spatial-Spectral Residuals Informed Diffusion Neural Operator for Pan-sharpening*(CVPR 2025) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Jianhan-Huang/SRINO) |
 | **SFIGNet** | *A spatial-frequency dual-domain implicit guidance method for hyperspectral and multispectral remote sensing image fusion based on Kolmogorov–Arnold Network* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2025.103261-blue)](https://doi.org/10.1016/j.inffus.2025.103261) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/chunyuzhu/SFIGNet) |
 | **CAUWT** | *Content-Adaptive Unfolding Wavelet Transformer for Hyperspectral Image Super-Resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2025.3636789-blue)](https://doi.org/10.1109/TIP.2025.3636789) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Ambitionfy/CAUWT) |
-| **HSRKAN** | *HSR-KAN: Efficient Hyperspectral Image Super-Resolution via Kolmogorov-Arnold Networks* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FIJCNN64981.2025.11228383-blue)](https://doi.org/10.1109/IJCNN64981.2025.11228383) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Baisonm-Li/HSR-KAN) |
 
 ## 2024
 
