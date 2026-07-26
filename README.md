@@ -44,6 +44,7 @@
 | **SFIGNet** | *A spatial-frequency dual-domain implicit guidance method for hyperspectral and multispectral remote sensing image fusion based on Kolmogorov–Arnold Network* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2025.103261-blue)](https://doi.org/10.1016/j.inffus.2025.103261) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/chunyuzhu/SFIGNet) |
 | **CAUWT** | *Content-Adaptive Unfolding Wavelet Transformer for Hyperspectral Image Super-Resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2025.3636789-blue)](https://doi.org/10.1109/TIP.2025.3636789) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Ambitionfy/CAUWT) |
 | **MSCM-Net** | *Hyperspectral and Multispectral Image Fusion Via Multi-Scale CNN-Mamba Network* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FIGARSS55030.2025.11243719-blue)](https://doi.org/10.1109/IGARSS55030.2025.11243719) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/ParticleZhao/MSCM-Net) |
+| **HSC-Sampling** | *Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2025.3636676-blue)](https://doi.org/10.1109/TIP.2025.3636676) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/1318133/HSC-Sampling) |
 
 ## 2024
 
