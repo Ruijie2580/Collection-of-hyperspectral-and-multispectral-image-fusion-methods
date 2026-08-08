@@ -46,6 +46,7 @@
 | **MSCM-Net** | *Hyperspectral and Multispectral Image Fusion Via Multi-Scale CNN-Mamba Network* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FIGARSS55030.2025.11243719-blue)](https://doi.org/10.1109/IGARSS55030.2025.11243719) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/ParticleZhao/MSCM-Net) |
 | **HSC-Sampling** | *Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2025.3636676-blue)](https://doi.org/10.1109/TIP.2025.3636676) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/1318133/HSC-Sampling) |
 | **ESFS** | *Enhanced Spatial-Frequency Synergistic Network for Multispectral and Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3589097-blue)](https://doi.org/10.1109/TGRS.2025.3589097) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/ziqianmo/ESFS) |
+| **SpecSolver** | *SpecSolver: Solving Spatial-Spectral Fusion via Semantic Transformer* <br> [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3746027.3755309-blue)](https://doi.org/10.1145/3746027.3755309) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/weili419/SpecSolver) |
 
 ## 2024
 
