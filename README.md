@@ -48,6 +48,7 @@
 | **HSC-Sampling** | *Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2025.3636676-blue)](https://doi.org/10.1109/TIP.2025.3636676) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/1318133/HSC-Sampling) |
 | **ESFS** | *Enhanced Spatial-Frequency Synergistic Network for Multispectral and Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2025.3589097-blue)](https://doi.org/10.1109/TGRS.2025.3589097) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/ziqianmo/ESFS) |
 | **SpecSolver** | *SpecSolver: Solving Spatial-Spectral Fusion via Semantic Transformer* <br> [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3746027.3755309-blue)](https://doi.org/10.1145/3746027.3755309) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/weili419/SpecSolver) |
+| **S3Net** | *S^3-Net: Learning spectral-spatio self-similarity for hyperspectral image super-resolution* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neunet.2025.107490-blue)](https://doi.org/10.1016/j.neunet.2025.107490) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/wxy11-27/S3-Net) |
 
 ## 2024
 
