@@ -66,5 +66,5 @@
 | :---: | :--- | :---: |
 | **PSRT** | *PSRT: Pyramid Shuffle-and-Reshuffle Transformer for Multispectral and Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTGRS.2023.3244750-blue)](https://doi.org/10.1109/TGRS.2023.3244750) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/shangqideng/PSRT) |
 | **U2Net** | *U2Net: A General Framework with Spatial-Spectral-Integrated Double U-Net for Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3581783.3612084-blue)](https://doi.org/10.1145/3581783.3612084) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/PSRben/U2Net) |
-
+| **MCTNet** | *MCT-Net: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2023.110362-blue)](https://doi.org/10.1016/j.knosys.2023.110362) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/wxy11-27/MCT-Net) |
 
