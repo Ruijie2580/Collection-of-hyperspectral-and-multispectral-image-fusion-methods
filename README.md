@@ -23,6 +23,7 @@
 | **GGAT** | *High-frequency geometry enhanced graph attention network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2026.113592-blue)](https://doi.org/10.1016/j.patcog.2026.113592) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/mia681912/GGAT) |
 | **AWDNet** | *Hyperspectral and Multispectral Image Fusion Based on Adaptive Wavelet Transform and Dual Spectral–Spatial Branch* <br> [![DOI](https://img.shields.io/badge/DOI-10.3390%2Frs18111726-blue)](https://doi.org/10.3390/rs18111726) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/330162016/AWD-Net) |
 | **SSFEINet** | *S2FEINet: A spatial-spectral feature extraction and interactive network for fusing hyperspectral and multispectral images* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2025.104066-blue)](https://doi.org/10.1016/j.inffus.2025.104066) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/lab-807/SSFEINet) |
+| **SatFusion** | *SatFusion: A Unified Framework for Enhancing Remote Sensing Images via Multi-Frame and Multi-Source Images Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3767308.3836355-blue)](https://doi.org/10.1145/3767308.3836355) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/yufeiTongZJU/SatFusion) |
 
 ## 2025
 
