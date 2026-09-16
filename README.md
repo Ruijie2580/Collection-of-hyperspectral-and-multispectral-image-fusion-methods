@@ -6,6 +6,7 @@
 
 | Method | Paper | Code |
 | :---: | :--- | :---: |
+| **CGSFN** | *Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2026.3723689-blue)](https://doi.org/10.1109/TCSVT.2026.3723689) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/CGSFN) |
 | **SCSRNet** | *SCSRNet: A multi-scale spatial-conditioned spectral routing network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jag.2026.105547-blue)](https://doi.org/10.1016/j.jag.2026.105547) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/zsspo/SCSRNet) |
 | **SDPNet** | *A spatially guided dual-path network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116227-blue)](https://doi.org/10.1016/j.knosys.2026.116227) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/LRuiRui517/SDP-Net)|
 | **EMRDiff** | *EMR-Diff: Edge-aware Multimodal Residual Diffusion Model for Hyperspectral  Image Super-resolution*(CVPR 2026) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/luocz55/EMR-Diff)|
