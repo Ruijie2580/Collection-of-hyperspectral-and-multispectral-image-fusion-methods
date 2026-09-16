@@ -6,6 +6,7 @@
 
 | Method | Paper | Code |
 | :---: | :--- | :---: |
+| **S3O** | *S³O: Selective Spatial-Spectral Operator for Cross-Scale Fusion* <br> [📄 CVPR Paper](https://cvpr.thecvf.com/virtual/2026/poster/41120) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/GuobaPei/Selective-Spatial-Spectral-Operator) |
 | **LSO** | *Solving Spatial-Spectral Fusion with Latent Spectral Operators* <br> [📄 OpenReview](https://openreview.net/forum?id=i6Bxd3WpbD) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/weili419/LSO) |
 | **SSILNet** | *Spatial–spectral interactive learning network via adaptive information integration for hyperspectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116951-blue)](https://doi.org/10.1016/j.knosys.2026.116951) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Zhang-bd/SSIL-Net) |
 | **CGSFN** | *Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2026.3723689-blue)](https://doi.org/10.1109/TCSVT.2026.3723689) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/CGSFN) |
