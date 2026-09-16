@@ -6,6 +6,8 @@
 
 | Method | Paper | Code |
 | :---: | :--- | :---: |
+| **LSO** | *Solving Spatial-Spectral Fusion with Latent Spectral Operators* <br> [📄 OpenReview](https://openreview.net/forum?id=i6Bxd3WpbD) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/weili419/LSO) |
+| **SSILNet** | *Spatial–spectral interactive learning network via adaptive information integration for hyperspectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116951-blue)](https://doi.org/10.1016/j.knosys.2026.116951) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/Zhang-bd/SSIL-Net) |
 | **CGSFN** | *Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSVT.2026.3723689-blue)](https://doi.org/10.1109/TCSVT.2026.3723689) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/MSFLabX/CGSFN) |
 | **SCSRNet** | *SCSRNet: A multi-scale spatial-conditioned spectral routing network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jag.2026.105547-blue)](https://doi.org/10.1016/j.jag.2026.105547) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/zsspo/SCSRNet) |
 | **SDPNet** | *A spatially guided dual-path network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116227-blue)](https://doi.org/10.1016/j.knosys.2026.116227) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/LRuiRui517/SDP-Net)|
