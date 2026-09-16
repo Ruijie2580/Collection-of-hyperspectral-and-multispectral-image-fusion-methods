@@ -6,6 +6,7 @@
 
 | Method | Paper | Code |
 | :---: | :--- | :---: |
+| **SCSRNet** | *SCSRNet: A multi-scale spatial-conditioned spectral routing network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jag.2026.105547-blue)](https://doi.org/10.1016/j.jag.2026.105547) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/zsspo/SCSRNet) |
 | **SDPNet** | *A spatially guided dual-path network for hyperspectral and multispectral image fusion* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.knosys.2026.116227-blue)](https://doi.org/10.1016/j.knosys.2026.116227) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/LRuiRui517/SDP-Net)|
 | **EMRDiff** | *EMR-Diff: Edge-aware Multimodal Residual Diffusion Model for Hyperspectral  Image Super-resolution*(CVPR 2026) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/luocz55/EMR-Diff)|
 | **CLSNet** | *Correlation-aware learning self-guiding network for hyperspectral fusion imaging* <br> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2026.104263-blue)](https://doi.org/10.1016/j.inffus.2026.104263) | [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/HengYang01/CLSNet) |
